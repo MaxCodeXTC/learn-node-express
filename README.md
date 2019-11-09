@@ -1,80 +1,27 @@
-# Learn Node Express
+# Learn Node and Express
 
-1. Download Free eBook: https://codingwithbasir.com/download
-2. Fork and Clone This repository
-3. Code Project A1
-4. Send a Pull Request
-5. Let me know to review your code: [basir.jafaradeh@gmail.com](mailto:basir.jafaradeh@gmail.com)
+1. [Download free eBook](https://codingwithbasir.com/download)
+2. Code following projects
+3. Deliver projects to me ([How To](https://codingwithbasir.com/how-to-deliver-projects/))
+4. I review your code and give you feedback.
+5. Have questions? Email [basir.jafaradeh@gmail.com](mailto:basir.jafaradeh@gmail.com)
 
-## Node JS
+## Projects
 
-[Project A1: Show Info](project-node-express-a1-node-js)
+- [Project A1 Introduction to Nodejs ](project-node-express-a1-introduction-to-nodejs)
 
-- What is BACK-END
-- What is Node.JS
-- The Node REPL
-- Running a Program with Node
-- Accessing the Process Object
-- Core Modules and Local Modules
-- Node Package Manager
-- Event-Driven Architecture
-- Asynchronous JavaScript with Node.js
-- User Input/Output
-- Errors
-- Filesystem
-- Readable Streams
-- Writable Streams
-- Create an HTTP Server
+- [Project B1 Introduction to Express ](project-node-express-b1-introduction-to-express)
 
-## INTRODUCTION TO EXPRESS
+- [Project C1 Routers and Middleware ](project-node-express-c1-routers-and-middleware)
 
-[Project B1: Todo App Backend](project-node-express-b1)
+- [Project D1 Mongodb and Mongoose](project-node-express-d1-mongodb-and-mongoose)
 
-- What is Express?
-- Starting A Server
-- Writing Your First Route
-- Sending A Response
-- Matching Route Paths
-- Getting A Single Resource
-- Setting Status Codes
-- Matching Longer Paths
-- Other HTTP Methods
-- Using Queries
-- Matching By HTTP Verb
-- Creating A Resource
-- Deleting A Resource
+- [Project E1 Advanced Mongoose](project-node-express-e1-advanced-mongoose)
 
-## EXPRESS ROUTERS
+## Want to get reviewed?
 
-[Project C1: Todo App Backend](project-node-express-c1)
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
 
-- This File Is Too Big!
-- Express.Router
-- Using Multiple Router Files
-- Matching In Nested Routers
+## Need help?
 
-## MIDDLEWARE
-
-[Project D1: Smart House](project-node-express-d1)
-
-- DRYing Code With Functions
-- DRYing Routes With app.use()
-- next()
-- Request And Response Parameters
-- Route-Level app.use() - Single Path
-- Control Flow With next()
-- Route-Level app.use() - Multiple Paths
-- Middleware Stacks
-- Open-Source Middleware: Logging
-- Documentation
-- Open-Source Middleware: Body Parsing
-- Error-Handling Middleware
-- Discovering Open-Source Middleware
-
-## ROUTER PARAMETERS
-
-[Project E1: Flag Shower](project-node-express-e1)
-
-- ROUTER PARAMETERS
-- router.param()
-- Merge Parameters
+Download Free eBook https://codingwithbasir.com/download

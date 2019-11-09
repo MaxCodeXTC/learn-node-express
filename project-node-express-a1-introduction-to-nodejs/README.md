@@ -1,8 +1,6 @@
-# Project NODE EXPRESS A1 NODE.JS
+# Project NODE EXPRESS A1 Introduction to Nodejs
 
-To code this project you need to know:
-
-What is BACK-END
+Topics: What is BACK-END
 , What is Node.JS
 , The Node REPL
 , Running a Program with Node
@@ -17,8 +15,6 @@ What is BACK-END
 , Readable Streams
 , Writable Streams
 , Create an HTTP Server
-
-If you are not familier with them please download Learn JavaScript eBook from https://codingwithbasir.com/learn-node-express
 
 ## Project Title: Show Info
 
@@ -60,6 +56,10 @@ If you are not familier with them please download Learn JavaScript eBook from ht
 
 18. Run `readyToExit` every 2 seconds. Use `setInterval`
 
-## How to deliver this project
+## Want to get reviewed?
 
-Check this link: https://codingwithbasir.com/how-to-deliver-projects/
+Send Pull Request. Check how to deliver your code: https://codingwithbasir.com/how-to-deliver-projects/
+
+## Need help?
+
+Download Free eBook https://codingwithbasir.com/download
