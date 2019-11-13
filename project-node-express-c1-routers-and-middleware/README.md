@@ -28,12 +28,14 @@ Topics: This File Is Too Big!
 
 2. Inside `yourname` folder create a javascript file named `index.js`.
 
-3. Open VSCode and edit `index.js` to Log "Your Name" into console.
+3. Open VS Code and edit `index.js` to Log "Your Name" into console.
 
 4. Install nodemon by running `npm install -g nodemon`
 
-5. Run `nodemon yourname.js` to see your change into terminal as you up update the code.
-   Note: For next steps, edit `yourname.js`and save it to see the result.
+5. Run `nodemon index.js` to see your change into terminal as you up update the code.
+   Note: For next steps, edit `index.js`and save it to see the result.
+6. 
+ 
 
 6. ...
 
