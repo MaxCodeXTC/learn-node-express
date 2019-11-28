@@ -22,21 +22,21 @@ Topics: What is BACK-END
 
 2. Inside `yourname` folder create a javascript file named `index.js`.
 
-3. Open VSCode and edit `index.js` to Log "Your Name" into console.
+3. Open VS Code and edit `index.js` to Log `Hello World` into console.
 
-4. Open terminal and go to `yourname`. Then run `node yourname.js`.
-   Note: Check the message into console and exit by pressing Ctrl+C.
+4. Open terminal and go to `yourname` folder and run `node index.js`.
+   Note: Check `Hello World` into console and exit by pressing Ctrl+C.
 
 5. Install nodemon by running `npm install -g nodemon`
 
-6. Run `nodemon yourname.js` to see your change into terminal as you up update the code.
-   Note: For next steps, edit `yourname.js`and save it to see the result.
+6. Run `nodemon index.js` to see your change into terminal as you up update the code.
+   Note: For next steps, edit `index.js`and save it to see the result.
 
-7. Log environment variables. If `NODE_ENV` is `development` log this app is testing.
+7. Log environment variables. If `NODE_ENV` is `development` log `This app is under test.`.
 
 8. Log how many bytes of memory the current process is using.
 
-9. Import `os` module and log Platform and Architecture of your computer.
+9. Import `os` module and log `Platform` and `Architecture` of your computer.
 
 10. Create file name `info.js` and create class `info` there.
 

@@ -14,7 +14,7 @@ Topics: What is Express?
 , Creating A Resource
 , Deleting A Resource
 
-## Project Title: ...
+## Project Title: Products
 
 1. Create a folder with your name like `yourname` in this folder.
 
@@ -24,10 +24,10 @@ Topics: What is Express?
 
 4. Install nodemon by running `npm install -g nodemon`
 
-5. Run `nodemon yourname.js` to see your change into terminal as you up update the code.
-   Note: For next steps, edit `yourname.js`and save it to see the result.
+5. Run `nodemon index.js` to see your change into terminal as you up update the code.
+   Note: For next steps, edit `index.js`and save it to see the result.
 
-6. ...
+6. Install express by running `npm install express`
 
 ## Want to get reviewed?
 
