@@ -32,29 +32,29 @@ Topics: What is BACK-END
 6. Run `nodemon index.js` to see your change into terminal as you up update the code.
    Note: For next steps, edit `index.js`and save it to see the result.
 
-7. Log environment variables. If `NODE_ENV` is `development` log `This app is under test.`.
+7) Log environment variables. If `NODE_ENV` is `development` log `This app is under test.`.
 
-8. Log how many bytes of memory the current process is using.
+8) Log how many bytes of memory the current process is using.
 
-9. Import `os` module and log `Platform` and `Architecture` of your computer.
+9) Import `os` module and log `Platform` and `Architecture` of your computer.
 
-10. Create file name `info.js` and create class `info` there.
+10) Create file name `info.js` and create class `info` there.
 
-11. Add `title`, `owner` and `createTime` to this class and change constructor to accept values for these fields.
+11) Add `title`, `owner` and `createTime` to this class and change constructor to accept values for these fields.
 
-12. Add `getInfo` method that return an object like `Note {title} is created by {title} at {createTime}`.
+12) Add `getInfo` method that return an object like `Note {title} is created by {title} at {createTime}`.
 
-13. Import newly created file `info.js` into `index.js` and create instance from `info` class with sample values.
+13) Import newly created file `info.js` into `index.js` and create instance from `info` class with sample values.
 
-14. Class getInfo and log it into console.
+14) Class getInfo and log it into console.
 
-15. Define variable named `canExit` and set to `false`. Define a function named `readyToExit` that set `canExit` to `true` and log `I'm out.`
+15) Define variable named `canExit` and set to `false`. Define a function named `readyToExit` that set `canExit` to `true` and log `I'm out.`
 
-16. Run `readyToExit` after 3 seconds. Note: Use `setTimeout`.
+16) Run `readyToExit` after 3 seconds. Note: Use `setTimeout`.
 
-17. Create a while loop that run as long as `canExit` is `false`. Inside this loop, log `I'm in`.
+17) Create a while loop that run as long as `canExit` is `false`. Inside this loop, log `I'm in`.
 
-18. Run `readyToExit` every 2 seconds. Use `setInterval`
+18) Run `readyToExit` every 2 seconds. Use `setInterval`
 
 ## Want to get reviewed?
 
